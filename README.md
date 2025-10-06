@@ -36,10 +36,6 @@ Visualization:
 - matplotlib/seaborn - Cluster visualization and heatmap analysis
 - plotly - Interactive 3D scatter plots
 
-Statistical Analysis:
-- scipy - Hierarchical clustering and distance metrics
-- statsmodels - Cohort analysis and comparative statistics
-
 Development Tools:
 - Jupyter - Interactive analysis environment
 - Git - Version control and collaboration
